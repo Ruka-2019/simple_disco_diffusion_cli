@@ -1,0 +1,23 @@
+__pycache__
+
+## Pycharm
+.idea
+
+
+## Gen by disco process
+/AdaBins
+/CLIP
+/disco-diffusion
+/guided-diffusion
+/images_out
+/init_images
+/MiDaS
+/models
+/Predownload
+/pretrained
+/pytorch3d-lite
+/RAFT
+/ResizeRight
+/venv
+disco_xform_utils.py
+progress.png
